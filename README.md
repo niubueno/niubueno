@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently searching for new opportunities
-- 🌱 I’m currently learning about Quality Assurance (QA) and how to grow inside this career
-- 👀 This is my new Github profile, the previous was lost
+- 🌱 I’m currently learning about Development with C#, Quality Assurance (QA), SDLC and how to become a better developer day by day
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pbuenoniu&show_icons=true&theme=dracula&inclue_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbuenoniu&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niubueno&show_icons=true&theme=dracula&inclue_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niubueno&layout=compact&langs_count=16&theme=dracula"/>
 </div>
